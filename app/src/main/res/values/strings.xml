@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite_Database</string>
+    <string name="tarirlash">Tarirlash</string>
+    <string name="ochirish">ochirish</string>
+</resources>
